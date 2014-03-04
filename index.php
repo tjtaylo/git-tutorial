@@ -9,6 +9,6 @@
 	<p>I hope this works.</p>
 	<p>Did it work?</p>
 	<p>Yes! It works!</p>
-	<p>Testing credential.helper cache <strong>[this is the test]</strong></p>
+	<p>Testing credential.helper cache <strong>[this is the test]</strong> <em>(test failed)</em></p>
 </body>
 </html>
