@@ -19,9 +19,5 @@
 			<p>Planning to add more posts each day using sublime, iterm, and git to deploy. Practice makes perfect.</p>
 		</div>
 	</div>
-
-	<footer>
-		<p>Copyright 2014 - Git Tutorial</p>
-	</footer>
 </body>
 </html>
