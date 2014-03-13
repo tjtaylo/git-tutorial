@@ -5,6 +5,8 @@
 	<title>Git Tutorial for deployments</title>
 </head>
 <body>
+	<header></header>
+
 	<h1>Git Tutorial for Deployments</h1>
 	<p>I hope this works.</p>
 	<p>Did it work?</p>

@@ -1,0 +1,12 @@
+header {
+	background: darkblue;
+	height: 100px;
+	width: 100%;
+}
+header:after {
+	content: "";
+	display: block;
+	height: 20px;
+	background: blue;
+	width: 100%;
+}
