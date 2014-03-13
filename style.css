@@ -2,13 +2,15 @@ body {
 	margin: 0;
 	padding: 0;
 	background: darkblue;
+	font-family: Helvetica, Arial sans-serif;
 }
 header {
 	background: darkblue;
 	height: 100px;
 	width: 100%;
+	display: block;
 }
-header::after {
+header:after {
 	content: "";
 	display: block;
 	height: 20px;
@@ -30,4 +32,17 @@ footer {
 	color: #ccc;
 	padding: 20px 0;
 	text-align: center;
+}
+.article {
+	margin:10px 0px 20px;
+	padding: 10px 20px;
+	box-shadow: 1px 1px 10px rgba(0,0,0,.3);
+	background: rgb(255, 248, 206)
+}
+pre code {
+	background: #333;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 10px;
+	display: inline-block;
 }
