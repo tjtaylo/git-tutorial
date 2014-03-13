@@ -16,7 +16,7 @@ header::after {
 	width: 100%;
 }
 #content-wrapper {
-	background: #fff;
+	background: orange;
 	overflow: auto;
 }
 #content {
